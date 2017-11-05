@@ -1,2 +1,2 @@
-# AcadGild_Session2_Assignment
-AcadGild_Session2_Assignment 
+# AcadGild_Session2_Assignments
+AcadGild_Session2_Assignments 
